@@ -200,5 +200,5 @@ for i, (image, question) in enumerate(test_loader):
 # Save the submission file
 submission = [train_dataset.idx2answer[id] for id in submission]
 submission = np.array(submission)
-np.save("submission.npy", submission)
+np.save("submissions.npy", submission)
 print(submission[:10])
