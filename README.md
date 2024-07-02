@@ -4,4 +4,4 @@ The pre-trained Swin Transformer is sourced from the torchvision library, while 
 
 Additionally, code from randaugment.py, originally from the BLIP project, was used to enhance the model's performance.
 
-This repository was developed as the final project for the "深層学習/DL基礎 2024" (Deep Learning Basics 2024) course at the University of Tokyo.
+This repository was developed as the final project for the "深層学習/DL基礎 2024" (Deep Learning Basics 2024) course at The University of Tokyo.
